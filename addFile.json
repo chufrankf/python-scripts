@@ -1,0 +1,12 @@
+{
+    "cmds":{
+        "daily": {
+            "folder":"~/Documents/Daily",
+            "template": "~/Documents/Daily/zzTemplate/Template.md"
+        },
+        "issue": {
+            "folder":"~/Documents/Issues",
+            "template": "~/Documents/Issues/zzTemplate/#.md"
+        }
+    }
+}
